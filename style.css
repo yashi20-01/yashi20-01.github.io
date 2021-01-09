@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+header{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+#identity{
+    height: 20%;
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+main {
+    background-color: white;
+}
+
+h2 {
+    padding: 20px;
+}
+img {
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+li{
+    padding: 10px;
+    font-size: larger;
+}
